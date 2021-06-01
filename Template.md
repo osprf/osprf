@@ -1,0 +1,43 @@
+* CVE: CVE-2021-12345
+* CVE: CVE-2020-67890
+* CVSS: AV:A/AC:M/Au:N/C:P/I:C/A:C
+* CVSS3: CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:N
+* CWE: CWE-347
+* OWASP: WSTG-ATHN-03
+* OSSTMM3: 7.1.1
+
+# Finding
+
+We identified...
+
+It was possible to...
+
+The application was vulnerable to ...
+
+* poc image
+* parameters/details table
+* ```code```
+
+# Impact
+
+An attacker might be able to obtain...
+
+An attacker can exploit this issue ...
+
+A successful exploitation may result in ...
+
+# Likelihood
+
+An attacker needs the following to exploit this issue:
+* Network level access ...
+* Valid credentials with user level privileges ...
+* A deep understanding in technology ...
+* ...
+
+# Recommendation
+
+We recommend patching...
+
+It is recommended to...
+
+...
